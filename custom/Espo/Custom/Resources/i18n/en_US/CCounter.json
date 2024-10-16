@@ -1,0 +1,12 @@
+{
+    "fields": {
+        "diskSize": "DiskSize",
+        "size": "Size",
+        "numberOfRecords": "NumberOfRecords",
+        "numberOfUsers": "NumberOfUsers"
+    },
+    "links": [],
+    "labels": {
+        "Create CCounter": "Create Counter"
+    }
+}

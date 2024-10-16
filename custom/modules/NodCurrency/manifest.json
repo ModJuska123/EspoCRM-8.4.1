@@ -1,0 +1,26 @@
+{
+    "name": "NodCurrency",
+    "version": "1.0.0",
+    "author": "Your Name",
+    "description": "Description of your currency extension",
+    "fields": [
+        {
+            "name": "diskSize",
+            "type": "float"
+        },
+        {
+            "name": "size",
+            "type": "float"
+        },
+        {
+            "name": "numberOfRecords",
+            "type": "integer"
+        },
+        {
+            "name": "numberOfUsers",
+            "type": "integer"
+        }
+    ]
+}
+
+  

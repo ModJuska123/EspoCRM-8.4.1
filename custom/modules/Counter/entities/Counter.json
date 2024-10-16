@@ -1,0 +1,20 @@
+{
+  "fields": {
+    "diskSize": {
+      "type": "float"
+    },
+    "size": {
+      "type": "float"
+    },
+    "numberOfRecords": {
+      "type": "integer"
+    },
+    "numberOfUsers": {
+      "type": "integer"
+    }
+  },
+  "name": "Counter",
+  "label": "Counter Entity"
+}
+
+  

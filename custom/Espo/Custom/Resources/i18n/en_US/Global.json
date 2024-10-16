@@ -1,0 +1,8 @@
+{
+    "scopeNames": {
+        "CCounter": "Counter"
+    },
+    "scopeNamesPlural": {
+        "CCounter": "Counters"
+    }
+}
