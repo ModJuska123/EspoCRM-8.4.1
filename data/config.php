@@ -1,5 +1,8 @@
 <?php
 return [
+  'apiKey' => 'YOUR_API_KEY',
+  'secretKey' => 'YOUR_SECRET_KEY',
+  'destinationUrl' => 'https://example.com/api',
   'useCache' => true,
   'jobMaxPortion' => 15,
   'jobRunInParallel' => false,
@@ -311,8 +314,8 @@ return [
   'authIpAddressWhitelist' => [],
   'authIpAddressCheckExcludedUsersIds' => [],
   'authIpAddressCheckExcludedUsersNames' => (object) [],
-  'cacheTimestamp' => 1729111660,
-  'microtime' => 1729111660.621078,
+  'cacheTimestamp' => 1729119144,
+  'microtime' => 1729119144.882733,
   'siteUrl' => 'http://localhost/EspoCRM-8.4.1',
   'fullTextSearchMinLength' => 4,
   'appTimestamp' => 1729111660,

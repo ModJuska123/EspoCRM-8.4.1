@@ -9119,6 +9119,19 @@ return [
       'iconClass' => 'fas fa-tasks',
       'kanbanViewMode' => true
     ],
+    'Admin' => [
+      'menu' => [
+        'Administration' => [
+          'items' => [
+            0 => [
+              'label' => 'API Credentials',
+              'action' => 'navigate',
+              'url' => '#Admin/api-credentials'
+            ]
+          ]
+        ]
+      ]
+    ],
     'CCounter' => [
       'controller' => 'controllers/record',
       'boolFilterList' => [

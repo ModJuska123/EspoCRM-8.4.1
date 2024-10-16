@@ -1,0 +1,13 @@
+{
+    "menu": {
+        "Administration": {
+            "items": [
+                {
+                    "label": "API Credentials",
+                    "action": "navigate",
+                    "url": "#Admin/api-credentials"
+                }
+            ]
+        }
+    }
+}
