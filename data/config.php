@@ -311,11 +311,11 @@ return [
   'authIpAddressWhitelist' => [],
   'authIpAddressCheckExcludedUsersIds' => [],
   'authIpAddressCheckExcludedUsersNames' => (object) [],
-  'cacheTimestamp' => 1729109205,
-  'microtime' => 1729109205.198721,
+  'cacheTimestamp' => 1729111660,
+  'microtime' => 1729111660.621078,
   'siteUrl' => 'http://localhost/EspoCRM-8.4.1',
   'fullTextSearchMinLength' => 4,
-  'appTimestamp' => 1729109205,
+  'appTimestamp' => 1729111660,
   'maintenanceMode' => NULL,
   'cronDisabled' => NULL
 ];
